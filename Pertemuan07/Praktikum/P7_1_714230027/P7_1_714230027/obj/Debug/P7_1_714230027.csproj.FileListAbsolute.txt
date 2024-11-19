@@ -1,0 +1,10 @@
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\bin\Debug\P7_1_714230027.exe.config
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\bin\Debug\P7_1_714230027.exe
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\bin\Debug\P7_1_714230027.pdb
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.csproj.AssemblyReference.cache
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.Form1.resources
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.Properties.Resources.resources
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.csproj.GenerateResource.cache
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.csproj.CoreCompileInputs.cache
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.exe
+D:\TUGAS\SEMESTER 3\PemogaramanII_714230027\Pertemuan07\Praktikum\P7_1_714230027\P7_1_714230027\obj\Debug\P7_1_714230027.pdb
