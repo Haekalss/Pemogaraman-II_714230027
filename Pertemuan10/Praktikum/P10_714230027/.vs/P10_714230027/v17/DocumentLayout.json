@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P10_714230027.csproj|d:\\tugas\\semester 3\\pemogaramanii_714230027\\pertemuan10\\praktikum\\p10_714230027\\p9_714230027\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P10_714230027.csproj|solutionrelative:p9_714230027\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|solutionrelative:p9_714230027\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P10_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P10_714230027.csproj|solutionrelative:p9_714230027\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|solutionrelative:p9_714230027\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P10_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P10_714230027.csproj|solutionrelative:p9_714230027\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|solutionrelative:p9_714230027\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|solutionrelative:p9_714230027\\controller\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\p9_714230027\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|solutionrelative:p9_714230027\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714230027\\controller\\Koneksi.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:59:18.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\view\\Form1.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714230027\\view\\Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAASwI8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:52:01.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\model\\M_mahasiswa.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714230027\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:52:02.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\controller\\Koneksi.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714230027\\controller\\Koneksi.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:52:02.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\controller\\Mahasiswa.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "P9_714230027\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:04:17.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\model\\M_mahasiswa.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "P9_714230027\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:00:29.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\view\\Form1.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\view\\Form1.cs",
+              "RelativeToolTip": "P9_714230027\\view\\Form1.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAASwI8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:57:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan10\\Praktikum\\P10_714230027\\P9_714230027\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230027\\view\\Form1.cs",
+              "ToolTip": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan09\\Praktikum\\P9_714230027\\P9_714230027\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Pertemuan09\\Praktikum\\P9_714230027\\P9_714230027\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:57:23.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
