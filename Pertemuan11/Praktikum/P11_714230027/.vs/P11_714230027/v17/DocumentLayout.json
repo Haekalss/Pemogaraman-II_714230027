@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\p9_714230027\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|solutionrelative:p9_714230027\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|d:\\tugas\\semester 3\\pemogaramanii_714230027\\pertemuan11\\praktikum\\p11_714230027\\p9_714230027\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|solutionrelative:p9_714230027\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\p9_714230027\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|solutionrelative:p9_714230027\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\p9_714230027\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P11_714230027.csproj|solutionrelative:p9_714230027\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1794CF4-FDDA-4F42-BAE2-563FF7FF9105}|P9_714230027\\P9_714230027.csproj|D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\p9_714230027\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FormNilai.cs [Design]",
               "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\P9_714230027\\view\\FormNilai.cs",
               "RelativeDocumentMoniker": "P9_714230027\\view\\FormNilai.cs",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ParentForm.cs [Design]",
               "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\P9_714230027\\view\\ParentForm.cs",
               "RelativeDocumentMoniker": "P9_714230027\\view\\ParentForm.cs",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FormNilai.cs",
               "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\P9_714230027\\view\\FormNilai.cs",
               "RelativeDocumentMoniker": "P9_714230027\\view\\FormNilai.cs",
@@ -115,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "M_nilai.cs",
               "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\P9_714230027\\model\\M_nilai.cs",
               "RelativeDocumentMoniker": "P9_714230027\\model\\M_nilai.cs",
@@ -123,12 +123,11 @@
               "RelativeToolTip": "P9_714230027\\model\\M_nilai.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:21:19.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T12:21:19.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Koneksi.cs",
               "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\P9_714230027\\controller\\Koneksi.cs",
               "RelativeDocumentMoniker": "P9_714230027\\controller\\Koneksi.cs",
@@ -136,12 +135,11 @@
               "RelativeToolTip": "P9_714230027\\controller\\Koneksi.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:33:28.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T12:33:28.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Nilai.cs",
               "DocumentMoniker": "D:\\TUGAS\\SEMESTER 3\\PemogaramanII_714230027\\Pertemuan11\\Praktikum\\P11_714230027\\P9_714230027\\controller\\Nilai.cs",
               "RelativeDocumentMoniker": "P9_714230027\\controller\\Nilai.cs",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "P9_714230027\\controller\\Nilai.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:24:05.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T12:24:05.682Z"
             },
             {
               "$type": "Document",
